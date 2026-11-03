@@ -1,12 +1,12 @@
 # Stroke Rate Trainer: Privacy Policy
 
-_Last updated: October 30, 2026_
+_Last updated: November 3, 2026_
 
 [Back to Support](./)
 
 ## Summary
 
-Stroke Rate Trainer does not collect, track, share or sell any personal data.
+Stroke Rate Trainer does not collect, track, share or sell any personal data. This applies to the iPhone and iPad app and to the Apple Watch app.
 
 ## What the app does and does not do
 
@@ -14,11 +14,15 @@ Stroke Rate Trainer does not collect, track, share or sell any personal data.
 - **No account.** You do not sign in or provide any personal information to use the app.
 - **No network use.** The app works fully offline and makes no network requests.
 - **No third parties.** The app contains no advertising, analytics, tracking or other third-party services.
-- **No permissions needed.** The app does not ask for access to your location, contacts, photos, camera, microphone or health data.
+- **No permissions needed.** The app does not ask for access to your location, contacts, photos, camera, microphone or health data. The Apple Watch app does not use HealthKit, does not read your heart rate or other sensors, and does not record or save workouts or any health data.
 
 ## Information stored on your device
 
-The app saves a few settings only on your own device, so they are there the next time you open it: your last tempo, your "Cycles to Count" choice, your beep pitch, and your customized event list. This information never leaves your device, and the developer cannot see it. Deleting the app removes it.
+The app saves a few settings only on your own device, so they are there the next time you open it: your last tempo, your "Cycles to Count" choice, your beep pitch, and your customized event list. The Apple Watch app saves its own few settings (such as Tempo or Pace mode, your last values, and the beep sound and Countdown Ticks choices) on the watch itself. This information never leaves your device or watch, and the developer cannot see it. Deleting the app removes it.
+
+## Apple Watch app
+
+The Apple Watch app works on its own, without your iPhone. While it is running it asks watchOS to keep it active (an extended runtime session) so the beeps and wrist taps continue with your wrist down. This is used only to keep the timer running. It does not collect or record any information about you or your activity, and it does not start a workout.
 
 ## Contacting the developer
 
